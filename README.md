@@ -6,7 +6,7 @@ Here, you can find detailed information, links, and resources related to our var
 
 ## 🌍 **Overview**
 
-This monorepo is designed to provide easy access to all the projects and resources developed within our organization. Each repository focuses on innovative technologies and concepts in the decentralized space, from decentralized finance (DeFi) to peer-to-peer networking.
+This monorepo is designed to provide easy access to all the projects and resources developed within the organization. Each repository focuses on innovative technologies and concepts in the decentralized space, from decentralized finance (DeFi) to peer-to-peer networking.
 
 ---
 
